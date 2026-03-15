@@ -8,13 +8,20 @@ El programa se controla con una mano, el cursor siendo su dedo índice y aplican
 
 Para seleccionar una acción o acerque el cursor (dedo índice) al recuadro y cuando este sobre el extienda su pulgar y luego encójalo. El extender su pulgar cuenta como un click. Si la acción está activa verá un recuadro verde que encuadra la acción.
 
+![Seleccion-ref](Imagen1.jpg)
+
 ## Hold
 
 Si la acción es pintar o borrar, cuando cierre el pulgar empezará a realizar la acción automáticamente, por lo que si no quiere hacerlo en ese mismo lugar en donde está el recuadro o simplemente quiere mover la mano sin dejar un rastro de pintura en el lienzo, puede abrir toda la mano, cuando ya esté en la posición deseada encoja cualquier dedo o todos exceptuando el índice y ya hará la acción.
 
+![Hold-ref](Imagen2.jpg)
+
+
 ## Deseleccionar una acción
 
 De lo contrario si quiere deseleccionar alguna acción activa haga un puño.
+
+![Deseleccion-ref](Imagen3.jpg)
 
 ## Selección de un color
 
@@ -54,6 +61,7 @@ Vuelve todo a como estaba cuando se inició el programa.
 
 Hay acciones que requieren de confirmación extra o gestos que permiten saber cuando dejar de hacerlo o colocar objetos, por lo que se ideó levantar el meñique para ello.
 
+![special-ref](Imagen4.jpg)
 #### Bucket
 
 Una vez seleccionado la cubeta que lo que hace es llenar todo de un color, para poder aplicar la acción solo levante el dedo meñique cuando el cursor esté sobre la superficie que desee.
