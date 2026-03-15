@@ -8,10 +8,21 @@ This program is controlled by exclusively one hand, the cursor being the index f
 ** You can exit the program by entering the "esc" key at any moment **
 
 ### Selecting an action
-To select an action close in the cursor (index finger) to the action button of your desire and when is over it extend your thumb and close it. By extending your thumb while being on top of a button it´s counted as a click. If the action is active you would see that de button has a green border around it. 
+To select an action close in the cursor (index finger) to the action button of your desire and when is under it extend your thumb and close it. By extending your thumb while the cursor is under a button, the action it´s counted as a click. If the action is active you can see that the button has a green border around it. You can also do a hold action instead of closing your thumb, so it dosen´t apply the action to the canvas, until you only have the index finger extended.
 
 ![Gesture-ref](./Imagenes/Imagen1.jpg)  
 
 ![Border-ref](./Imagenes/Border-ref.jpg)
+
+### Selecting a color
+You select a color the same way you select an action just make sure that your index finger is under the color box that you desire, extend your thumb and then close it. When a color is active you can see that there's a gray border around it's box. You can also do a hold action instead of closing your thumb, so it dosen´t apply the action to the canvas, until you only have the index finger extended.
+
+
+### Hold
+If the active action is painting or erasing, the action will be applied to the canvas once you only have the index finger extended, if you don´t want to inmediately apply it.
+
+
+
+
 
 
