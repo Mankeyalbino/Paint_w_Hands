@@ -9,6 +9,9 @@ This program is controlled by exclusively one hand, the cursor being the index f
 
 ### Selecting an action
 To select an action close in the cursor (index finger) to the action button of your desire and when is over it extend your thumb and close it. By extending your thumb while being on top of a button it´s counted as a click. If the action is active you would see that de button has a green border around it. 
-![Gesture-ref](./Imagenes/Imagen1.jpg)  ![Border-ref](./Imagenes/Border-ref.jpg)
+
+![Gesture-ref](./Imagenes/Imagen1.jpg)  
+
+![Border-ref](./Imagenes/Border-ref.jpg)
 
 
