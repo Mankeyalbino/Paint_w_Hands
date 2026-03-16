@@ -21,7 +21,7 @@ You select a color the same way you select an action just make sure that your in
 ## Hold
 If the active action is painting or erasing, the action will be applied to the canvas once you only have the index finger extended. So for that to not hapen you can open your hand like you would when giving a high five.
 
-![Hold-ref](./Imagenes/Imgen2.jpg)
+![Hold-ref](./Imagenes/Imagen2.jpg)
 
 ## Unselect an action 
 If you want to deactivate an action just make a fist.
@@ -54,7 +54,7 @@ Clears the canvas.
 ## Actions selected by click, and applied by the index finger and the pinky
 Some actions requires confirmation or gestures so the program knows when to place an object in screen.
 
-![Gesto2-ref](./Imagenes/Imagen3.jpg)
+![Gesto2-ref](./Imagenes/Imagen4.jpg)
 
 ### Bucket
 Once you select the bucket action hover the cursor over the space you want to fill and by extending the pinky finger the action is applied.
