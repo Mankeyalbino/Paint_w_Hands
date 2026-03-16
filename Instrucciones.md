@@ -1,14 +1,18 @@
-# Manual de usuario
+# Paint usando python y mediapipe
+Este programa tiene como propósito recrear una aplicación estilo paint utilizando visión por computadora.
+
+![Paint](./Imagenes/Imagen5.png)
 
 ## Controles
 
-El programa se controla con una mano, el cursor siendo su dedo índice y aplicando gestos, para comenzar ponga su mano en visión de la cámara. Cuando lo haga aparecerá los puntos claves dibujados sobre el lienzo blanco junto con las líneas que los conecta. Adicionalmente en el dedo índice verá alrededor un círculo sin fondo de contorno gris que tendrá el tamaño del grosor actual.
+El programa se controla con una mano, el cursor siendo su dedo índice y aplicando gestos, para comenzar ponga su mano en visión de la cámara. Cuando lo haga aparecerá los puntos claves dibujados sobre el lienzo blanco junto con las líneas que los conecta. Adicionalmente en el dedo índice verá alrededor un círculo sin fondo de contorno gris que tendrá el tamaño del grosor actual. Puedes salir del prograna en cualquier momento al presionar la tecla "esc".
 
 ## Selección de una acción
 
 Para seleccionar una acción o acerque el cursor (dedo índice) al recuadro y cuando este sobre el extienda su pulgar y luego encójalo. El extender su pulgar cuenta como un click. Si la acción está activa verá un recuadro verde que encuadra la acción.
 
 ![Seleccion-ref](./Imagenes/Imagen1.jpg)
+![Border-ref](./Imagenes/Border-ref.jpg)
 
 ## Hold
 
@@ -75,6 +79,8 @@ Para la línea una vez activa la acción levante el meñique y manténgalo así 
 Para el rectángulo es la misma secuencia solo que cuando levanta el meñique está colocando el punto donde irá una de las esquinas y cuando lo suelte está colocando la contra esquina.
 
 El círculo es la misma secuencia, solo que cuando levanta el meñique está colocando el centro del círculo y cuando mueva la mano estará variando el radio hasta que encoja el meñique.
+
+** AVISO ** Puedes usar este programa en lo que quieras, solo procura dar créditos al autor original y si gustas mandar o subir fotos de su aplicación para que pueda ponerlos en el refri como un padre orgulloso. :D
 
 
 
